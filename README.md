@@ -88,13 +88,14 @@ To explore and visualize historical sales trends, identify key revenue drivers, 
 ---
 
 ## 📂 Project Structure
-
+```
 ├── sales_data_sample.csv # Raw dataset
 ├── sales_cleaned.csv # Cleaned version
 ├── sales.ipynb # Python + SQL analysis
 ├── sales.db # SQLite database
 ├── /images/ # Dashboard screenshots
 └── README.md # Project summary (this file)
+```
 
 ---
 
