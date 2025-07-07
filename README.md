@@ -39,7 +39,7 @@ To explore and visualize historical sales trends, identify key revenue drivers, 
   - Revenue share by `DEALSIZE`
 
 
-### 📈 Excel Dashboard & Automation
+### 📈 Excel Dashboard
 - Built **pivot tables** for:
   - Total sales by product line
   - Total sales by country
@@ -72,7 +72,7 @@ To explore and visualize historical sales trends, identify key revenue drivers, 
 | Pandas             | Exploratory data analysis (EDA)             |
 |Seaborn / Matplotlib|	Visualizing sales trends and distributions |
 | SQLite             | SQL queries, joins, aggregations            |
-| Excel              | Pivot tables, macros, automation            |
+| Excel              | Pivot tables, macros           |
 | AWS QuickSight     | Dashboard building, KPI visuals, filters    |
 
 
