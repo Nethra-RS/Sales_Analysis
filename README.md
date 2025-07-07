@@ -1,6 +1,5 @@
 # 📊 Sales Data Dashboard & Analysis Project
-
-This project analyzes a real-world retail sales dataset using **Excel**, **Python**, **SQL**, and **AWS QuickSight**. It focuses on building data dashboards, performing business analysis, and automating reporting tasks for scalable insights.
+This project focuses on turning raw sales retail data into meaningful business intelligence using **Excel**, **Python**, **SQL**, and **AWS QuickSight**. 
 
 ---
 
@@ -53,10 +52,10 @@ To explore and visualize historical sales trends, identify key revenue drivers, 
 ### 📊 AWS QuickSight Dashboard
 - Imported dataset and created visuals:
   - Sales by Month-Track trends and seasonality  
-  - Top 5 Products by Revenue (Bar Chart)-Identify best-selling products
-  - Sales by Product Line (Bar Chart)- Regional performance 
-  - Deal Size Distribution (Donut Chart)-Compare revenue from Small, Medium, Large
-  - Sales by Country (Map Visual)-Show Total Sales, Avg Order Value, Order Coun
+  - Top 5 Products by Revenue-Identify best-selling products
+  - Sales by Product Line- Regional performance 
+  - Deal Size Distribution-Compare revenue from Small, Medium, Large
+  - Sales by Country-Show Total Sales, Avg Order Value, Order Coun
 - Created **KPI cards**:
   - Total Sales
   - Average Order Value
@@ -67,13 +66,14 @@ To explore and visualize historical sales trends, identify key revenue drivers, 
 
 ## 🧠 Tools Used
 
-| Tool         | Purpose                          |
-|--------------|----------------------------------|
-| Python       | Data cleaning, preprocessing     |
-| Pandas       | Exploratory data analysis (EDA)  |
-| SQLite       | SQL queries, joins, aggregations |
-| Excel        | Pivot tables, macros, automation |
-| AWS QuickSight | Dashboard building, KPI visuals  |
+| Tool               | Purpose                                     |
+|--------------------|---------------------------------------------|
+| Python             | Data cleaning, preprocessing                | 
+| Pandas             | Exploratory data analysis (EDA)             |
+|Seaborn / Matplotlib|	Visualizing sales trends and distributions |
+| SQLite             | SQL queries, joins, aggregations            |
+| Excel              | Pivot tables, macros, automation            |
+| AWS QuickSight     | Dashboard building, KPI visuals, filters    |
 
 
 ## 📌 Sample Business Insights
